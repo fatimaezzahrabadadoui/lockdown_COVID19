@@ -13,4 +13,3 @@ primaryClass={cs.SI}
 }
 Also the url of the paper is online in arxiv.org:
  https://arxiv.org/abs/2004.12240
-
